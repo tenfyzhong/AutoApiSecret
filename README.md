@@ -8,6 +8,9 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 * 搬运[原教程](https://blog.432100.xyz/index.php/archives/50/)说法：**不保证一定能续期！不保证一定能续期！不保证一定能续期**！或者说，**只是增大续订可能性**。过期前、后30天都可能续期！！！
 * 若理解并接受上述说明，请接着操作；**若否，请点击浏览器右上角 X 。**
 
+### 查看剩余时间 ###
+https://developer.microsoft.com/en-us/office/dev-program
+
 ### 项目说明 ###
 * 利用github action实现**定时自动调用api**，保持E5开发活跃。
 * **免费，不需要额外设备/服务器**，部署完不用管啦。
